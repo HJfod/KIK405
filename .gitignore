@@ -1,3 +1,4 @@
+.vscode/
 europarl/*
 !europarl/en
 europarl/en/ep-*.txt
