@@ -1,0 +1,6 @@
+europarl/*
+!europarl/en
+europarl/en/ep-*.txt
+!europarl/en/ep-00-*.txt
+!europarl/en/ep-01-*.txt
+!europarl/en/ep-02-*.txt
